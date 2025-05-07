@@ -1,5 +1,5 @@
-# Some-exactresults--on-Lindley-process-with-Laplace-jumps
-This matlab code reproduces and confirms the calculation showed in the article: https://arxiv.org/abs/2310.11879 submitted for pubblication.
+# Some-exact-results-on-Lindley-process-with-Laplace-jumps
+This matlab code reproduces and confirms the calculations showed in the article: https://www.mdpi.com/2227-7390/13/7/1166
 
 To run the code:
  1. Dowload the folder and leave the same file structure.
